@@ -1,4 +1,4 @@
----?image=_image/KakaoTalk_20181227_160418238.jpg&opacity=60
+---?image=_image/KakaoTalk_20181227_160418238.jpg&opacity=10
 
 # LEE ZIP GOOD
 
