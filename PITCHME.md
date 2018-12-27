@@ -20,7 +20,7 @@ Maple Story
 
 ## Jang Jun Hyuk
 
-Nothing
+JJANG JJUN
 
 Normal~
 
@@ -28,11 +28,11 @@ Sleeping
 
 ---
 
-Kang Seong Jin
+## Kang Seong Jin
 
 None
 
-## Shit
+ELEGANCE
 
 Drunken
 
