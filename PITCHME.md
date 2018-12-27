@@ -3,6 +3,8 @@
 E ZIP AWESOME ^_^v
 
 *Han Dong Hun, Jang Jun Hyuk, Kang Seong Jin, Kim So Jeong, Lee Hye Hui*
+
+---?image=_image/KakaoTalk_20181227_160418238.jpg
 ---
 ![](/_image/KakaoTalk_20181227_160418238.jpg)
 ---
