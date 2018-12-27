@@ -4,7 +4,7 @@ E ZIP AWESOME ^_^v
 
 *Han Dong Hun, Jang Jun Hyuk, Kang Seong Jin, Kim So Jeong, Lee Hye Hui*
 
-------
+---
 
 ### Han Dong Hun
 
@@ -14,7 +14,7 @@ COOOOOL~
 
 Maple Story
 
-------
+---
 
 ### Jang Jun Hyuk
 
@@ -24,7 +24,7 @@ Normal~
 
 Sleeping
 
-------
+---
 
 Kang Seong Jin
 
@@ -34,7 +34,7 @@ None
 
 Drunken
 
-------
+---
 
 ### Kim So Jeong
 
@@ -44,7 +44,7 @@ Goooood
 
 Watching Netflix
 
-------
+---
 
 ### Lee Hye Hui
 
