@@ -3,9 +3,8 @@
 E ZIP AWESOME ^_^v
 
 *Han Dong Hun, Jang Jun Hyuk, Kang Seong Jin, Kim So Jeong, Lee Hye Hui*
-
+---
 ![](/_image/KakaoTalk_20181227_160418238.jpg)
-
 ---
 
 ## Han Dong Hun
@@ -56,5 +55,4 @@ NICE~~
 
 Drunken
 ---
-
 ![](/_image/KakaoTalk_20181227_155527923.jpg)
