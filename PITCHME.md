@@ -6,7 +6,7 @@ E ZIP AWESOME ^_^v
 
 ---
 
-### Han Dong Hun
+## Han Dong Hun
 
 Ggo dong
 
@@ -16,7 +16,7 @@ Maple Story
 
 ---
 
-### Jang Jun Hyuk
+## Jang Jun Hyuk
 
 Nothing
 
@@ -30,13 +30,13 @@ Kang Seong Jin
 
 None
 
-### Shit
+## Shit
 
 Drunken
 
 ---
 
-### Kim So Jeong
+## Kim So Jeong
 
 Tofu
 
@@ -46,7 +46,7 @@ Watching Netflix
 
 ---
 
-### Lee Hye Hui
+## Lee Hye Hui
 
 HEY
 
